@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+ .sign-up-button{
+    border: 1px solid;
+    background-color: transparent;
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    margin-top:-7px;
+    padding-left: 10px;
+    padding-right: 12px;
+    cursor: pointer;
+ }
+.sign-up-button:hover{
+    background-color: black;
+    color: white;
+
+}
+.sign-up-button:active{
+    background-color: grey;
+}
+
+.down:hover{
+    opacity: .3;
+}
+
+.top-button:hover{
+ opacity: .3;
+}
+.div7-button:hover{
+    opacity: .6;
+}
+.div7-button:active{
+color: black;
+background-color: orange;
+}
+.div4{
+    width: 900px;
+    height: 400px;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+.image-1{
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+
+}
+
+.text-7{
+    width: 330px ;
+    margin-left: 30px;
+    color:rgb(89, 87, 87);
+    line-height: 20px;
+    font-family: arial;
+}
+
+
+.text-8{
+font-size: 13px;
+color: grey;
+}
+
+/* background */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.div2{
+    height: 500px;
+    width: 1340px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-top: 70px;
+
+}
+
+
+.div3-image{
+    height: 250px;
+    width: 250px;
+    margin-left: 55px;
+    margin-right: 40px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    cursor: pointer;
+}
+.loc-logo{
+    height: 15px;
+    width: 15px;
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-right: 5px;
+}
+.h3{
+    margin-top: 200px;
+}
+.div-5{
+    margin-top: 200px;
+  margin-left: 254px;
+      width: 1000px;
+      height: 400px;
+      /* background-color: red; */
+  }
+  .dot {
+      height: 10px;
+      width: 10px;
+      background-color: #bbb;
+      border-radius: 50%;
+      display: inline-block;
+      margin-top: 110px;
+    }
+    
+    /* this is for font  */
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.text-3{
+    margin-left: 55px;
+    height: 110px;
+    width: 249px;
+    margin-top: -18px;
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 12px 0px rgb(174, 174, 174) ;
+}
+
+.para-4{
+    padding-top: 35px;
+    padding-left: 15px;
+    font-family: roboto;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 300;
+    cursor: pointer;
+}
+.rupees{
+    font-size:16px ;
+    padding-left: 170px;
+    margin-top: -43px;
+    font-weight: 200;
+    color: rgb(105, 102, 102);
+    
+}
+
+.para-text{
+    padding-left: 30px;
+}
+.h3{
+    margin-top: 200px;
+    padding-left: 30px;
+
+}
+
+/* footer  */
+.footer{
+    margin-top: 150px;
+    margin-left: 240px;
+    width: 1200px;
+    height: 300px;
+    
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer-heading{
+    margin-top:60px;
+    font-family: roboto;
+    font-weight: 600;
+}
+.footer-heading:hover{
+    opacity: .3;
+}
+.content{
+    padding-top: 20px;
+    line-height: 30px;
+    font-family: roboto;
+    font-weight: 300;
+    color: rgb(90, 89, 89);
+    
+}
+.jadoo-tag{
+    font-family: Arial, Helvetica, sans-serif  ;
+    color: #181E4B;
+    padding-top: 30px;
+    font-weight: 300;
+    cursor: pointer;
+}
+.jadoo-tag:hover{
+    opacity: .7;
+}
+.text-6{
+    font-family: Arial, Helvetica, sans-serif  ;
+    font-weight: 300;
+    color: rgb(140, 139, 139);
+    padding-top: 40px;
+    font-size: 12px;
+}
+.last-line{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: 12px;
+    color: rgb(140, 139, 139);
+}
+
+.ul-list{
+    cursor: pointer;
+}
+.ul-list:hover{
+    opacity: .7;
+}
+.meta-logo{
+    margin-left: -100px;
+    padding-left: -30px;
+    padding-right: 50px;
+    margin-top: -55px;
+}
+
+
+.meta-tags-1{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+}
+.meta-tags-2{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+}
+.meta-tags-3{
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+}
+.app{
+    margin-top: 50px;
+    margin-left: -40px;
+    padding-left: -50px;
+}
